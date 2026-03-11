@@ -4,7 +4,7 @@
 ## Font Licenses
 
 The artwork contains fonts released under the
-![SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/documents/OFL.txt)
+[SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/documents/OFL.txt)
 
 ## Citations
 
